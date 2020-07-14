@@ -3,10 +3,12 @@
 It is related to predicting whether a customer stays or leaves a company.
 
 Outcomes of modelling :
+
 1 What factors are responsible for consumer behaviour are identified
+
 2 Predicting future churn rates for the company
 
-Methods used in the churn analysis are
+Methods used in the churn analysis are : 
 
 Dataset 1 : Artificial Neural Networks
 
